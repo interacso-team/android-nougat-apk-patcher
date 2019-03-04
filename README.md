@@ -1,4 +1,4 @@
-# nim-nougat-apk-patcher
+# Android Nougat APK Patcher
 Patches Nougat APKs to use User Certificate Authorities so you can setup tools like mitmproxy
 
 
