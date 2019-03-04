@@ -5,6 +5,9 @@ Patches Nougat APKs to use User Certificate Authorities so you can setup tools l
       nimble install cligen
       nim c patcher.nim
 
+# Usage
+
+	patcher <path to APK>
 
 ### Dependencies
 
